@@ -1,0 +1,9 @@
+
+W
+java:S1854"<Remove this useless assignment to local variable "supplier".(’şÆÒüÿÿÿÿ
+l
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntSupplier'(’şÆÒüÿÿÿÿ
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.(’şÆÒüÿÿÿÿ8şÔ¹©£/
+H
+java:S1481"-Remove this unused "supplier" local variable.(’şÆÒüÿÿÿÿ

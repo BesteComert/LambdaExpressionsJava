@@ -1,0 +1,11 @@
+
+T
+java:S1854"9Remove this useless assignment to local variable "unary".(½ûÿõşÿÿÿÿ
+q
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(½ûÿõşÿÿÿÿ
+M	java:S106	"9Replace this use of System.out or System.err by a logger.(€Ë²:
+l
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(¼è”
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(–şÎœüÿÿÿÿ8Â‚£/
+E
+java:S1481"*Remove this unused "unary" local variable.(½ûÿõşÿÿÿÿ
